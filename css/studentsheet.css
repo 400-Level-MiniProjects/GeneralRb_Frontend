@@ -1,0 +1,93 @@
+/* do not touch this part */
+.header,
+header{
+    display: flex;
+}
+.header p{
+    font-size: 18px;
+    text-align: center;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar ul li{
+    padding:10px;
+}
+.navbar ul li a,
+.navbar ul 
+{
+    text-decoration: none;
+    list-style-type: none;
+    color:black;
+}
+.gbs p,
+.signup p,
+.login p,
+.pbp p,
+.ssp p,
+.sisp p,
+.sifp p{
+    font-size: 40px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.student{
+    color: white;
+    background-color: rgb(37, 37, 116);
+    height: 50px;
+}
+table{
+    border-collapse: collapse; 
+ }
+ table th, table tr{
+    padding: 10px;
+ }
+ .A{
+     background-color: rgb(227, 235, 245);
+ }
+ .B{
+    background-color: rgb(227, 235, 245);
+}
+.C{
+    background-color: rgb(227, 235, 245);
+}
+.D{
+    background-color: rgb(227, 235, 245);
+}
+.E{
+    background-color: rgb(227, 235, 245);
+}
+.F{
+    background-color: rgb(227, 235, 245);
+}
+.G{
+    background-color: rgb(227, 235, 245);
+}
+.H{
+    background-color: rgb(227, 235, 245);
+}
+.I{
+    background-color: rgb(227, 235, 245);
+}
+#btn{
+    color: blue;
+    border: transparent;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    width: 500px;
+    position: relative;
+    margin: 550px;
+    position: absolute;
+    margin-top: 5px;
+    margin-bottom: 150px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+   }
