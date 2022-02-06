@@ -39,12 +39,20 @@ header{
     align-items: center;
     justify-content: center;
     font-family: 'Nunito Sans', sans-serif;
+    width: 80%;
+    margin: auto;
 }
 #main h1{
     font-family: 'Lato', sans-serif;
     font-weight: 600;
     font-size: 33px;
     margin-bottom: 50px;
+}
+#main .head{
+    color: white;
+}
+.cent{
+    text-align: center;
 }
 #main .form{
     display: flex;
